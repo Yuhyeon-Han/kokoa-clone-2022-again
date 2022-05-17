@@ -17,9 +17,9 @@
 }
 
 .more-suggestions {
-  margin-top: 50px;
+  margin-top: 20px;
   border-top: var(--main-border);
-  padding-top: 40px;
+  padding-top: 30px;
 }
 
 .more-suggestions__title {
@@ -46,7 +46,7 @@
 }
 
 .more-suggestions__icon-text {
-  font-size: 15px;
+  font-size: 13px;
   color: var(--gray-font);
   margin-top: 20px;
 }
